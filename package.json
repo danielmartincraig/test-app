@@ -14,5 +14,6 @@
     "react-refresh": "^0.14.0",
     "shadow-cljs": "2.22.9",
     "use-sync-external-store": "^1.2.0"
-  }
+  },
+  "homepage": "https://danielmartincraig.github.io/test-app"
 }
